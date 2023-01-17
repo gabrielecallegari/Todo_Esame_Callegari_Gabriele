@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161779579548",
+    "project_id": "todoesamecallegarigabriele",
+    "storage_bucket": "todoesamecallegarigabriele.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161779579548:android:17836c0cf2d542e32c0b59",
+        "android_client_info": {
+          "package_name": "it.itsar.todo_esame_callegari_gabriele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161779579548-f54plfqf69esjklp97k36am6990t73iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rZX8x2eAm1MM-u85-7bYCe9bQIKKJaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161779579548-f54plfqf69esjklp97k36am6990t73iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
